@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         var myFirstVariable = "Hola Mundo Cruel"
         var myFirstNumber = 1
         var mySecondVariable = "que passsssa"
+        var miTercerNumero = 33
 
 
 
